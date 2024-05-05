@@ -1,0 +1,1349 @@
+[NX Daemon Server] - 2023-12-26T09:32:25.241Z - Started listening on: \\.\pipe\nx\C:\Users\zeusk\AppData\Local\Temp\43ed772965df105b22e3\d.sock
+[NX Daemon Server] - 2023-12-26T09:32:25.260Z - [WATCHER]: Subscribed to changes within: c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide (native)
+[NX Daemon Server] - 2023-12-26T09:32:25.263Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-26T09:32:25.265Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-26T09:32:25.267Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-26T09:32:25.270Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-26T09:32:25.396Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:32:25.396Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:32:25.396Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:32:26.620Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-26T09:32:26.623Z - Time taken for 'total for creating and serializing project graph' 1349.4817000627518ms
+[NX Daemon Server] - 2023-12-26T09:32:26.623Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-26T09:32:26.623Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1350. Response time: 3.
+[NX Daemon Server] - 2023-12-26T09:32:26.630Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-26T09:32:26.631Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-26T09:32:26.632Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-12-26T09:32:26.632Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-26T09:32:26.636Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-12-26T09:32:26.636Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-12-26T09:32:26.636Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2023-12-26T09:35:17.725Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-26T09:35:17.725Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-12-26T09:35:17.726Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-26T09:35:17.731Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-26T09:35:17.732Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-26T09:35:17.734Z - Time taken for 'total for creating and serializing project graph' 0.5022000074386597ms
+[NX Daemon Server] - 2023-12-26T09:35:17.734Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-26T09:35:17.734Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2023-12-26T09:35:17.858Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-12-26T09:35:17.858Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-12-26T09:35:17.858Z - Handled HASH_TASKS. Handling time: 21. Response time: 0.
+[NX Daemon Server] - 2023-12-26T09:35:19.725Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-26T09:35:19.726Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-26T09:35:19.727Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2023-12-26T09:35:19.730Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-12-26T09:35:19.730Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-12-26T09:35:19.732Z - Time taken for 'total for creating and serializing project graph' 0.36810004711151123ms
+[NX Daemon Server] - 2023-12-26T09:35:19.732Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-12-26T09:35:19.732Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-12-26T09:35:34.487Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:35:34.643Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:38:50.781Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:38:50.792Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-26T09:38:50.910Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:38:50.910Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-26T09:38:50.910Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:38:51.002Z - Time taken for 'hash changed files from watcher' 0.3511000871658325ms
+[NX Daemon Server] - 2023-12-26T09:38:52.597Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-26T09:38:52.597Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:38:52.830Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:38:52.830Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-26T09:38:52.830Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:38:53.000Z - Time taken for 'hash changed files from watcher' 0.305400013923645ms
+[NX Daemon Server] - 2023-12-26T09:38:53.388Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:38:54.613Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:38:55.599Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-26T09:38:55.600Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:38:55.944Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:38:56.030Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:38:56.030Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-26T09:38:56.030Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:38:56.117Z - Time taken for 'hash changed files from watcher' 0.3454000949859619ms
+[NX Daemon Server] - 2023-12-26T09:38:58.694Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:38:58.783Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:09.259Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:09.261Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-26T09:39:09.478Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:10.063Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:39:10.064Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-26T09:39:10.064Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:39:10.197Z - Time taken for 'hash changed files from watcher' 1.184499979019165ms
+[NX Daemon Server] - 2023-12-26T09:39:45.665Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:45.667Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-26T09:39:46.053Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:46.341Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:47.279Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:39:47.280Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-26T09:39:47.280Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:39:47.357Z - Time taken for 'hash changed files from watcher' 0.5585000514984131ms
+[NX Daemon Server] - 2023-12-26T09:39:50.701Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:50.703Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-26T09:39:51.014Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:52.886Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:39:52.888Z - [WATCHER]: src/app/app.module.ts was modified
+[NX Daemon Server] - 2023-12-26T09:39:53.913Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:39:53.913Z - [REQUEST]: src/app/app.module.ts
+[NX Daemon Server] - 2023-12-26T09:39:53.913Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:39:53.989Z - Time taken for 'hash changed files from watcher' 0.43640005588531494ms
+[NX Daemon Server] - 2023-12-26T09:40:53.794Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:40:53.975Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:46:27.900Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:46:27.906Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:46:28.369Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:46:28.369Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:46:29.289Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:46:29.504Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:46:32.368Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:46:32.442Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:46:32.493Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:46:34.315Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:46:34.315Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-26T09:46:34.315Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:46:34.395Z - Time taken for 'hash changed files from watcher' 1.4449999332427979ms
+[NX Daemon Server] - 2023-12-26T09:47:30.658Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:47:30.659Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:47:31.051Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:47:34.507Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:47:34.511Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:47:34.874Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:47:37.065Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:47:37.065Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-26T09:47:37.066Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:47:37.124Z - Time taken for 'hash changed files from watcher' 0.4609999656677246ms
+[NX Daemon Server] - 2023-12-26T09:47:38.305Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:47:38.307Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:47:38.600Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:47:42.964Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:47:42.965Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:47:43.202Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:47:44.710Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:47:44.710Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-26T09:47:44.711Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:47:44.768Z - Time taken for 'hash changed files from watcher' 0.5556999444961548ms
+[NX Daemon Server] - 2023-12-26T09:48:00.989Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:48:00.990Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:48:01.302Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:48:01.621Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:48:01.623Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:48:07.404Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:48:07.404Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-26T09:48:07.404Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:48:07.492Z - Time taken for 'hash changed files from watcher' 0.49400007724761963ms
+[NX Daemon Server] - 2023-12-26T09:49:02.410Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:10.869Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-26T09:49:10.869Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:11.145Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:13.928Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:13.930Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-26T09:49:14.211Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:17.282Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:49:17.282Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-26T09:49:17.282Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:49:17.339Z - Time taken for 'hash changed files from watcher' 0.4613000154495239ms
+[NX Daemon Server] - 2023-12-26T09:49:23.590Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:23.593Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-26T09:49:23.813Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:25.012Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-26T09:49:25.013Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:25.787Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:27.345Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:27.400Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:30.013Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:49:30.013Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-26T09:49:30.013Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:49:30.124Z - Time taken for 'hash changed files from watcher' 0.6872000694274902ms
+[NX Daemon Server] - 2023-12-26T09:49:55.796Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:49:55.799Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-26T09:49:56.561Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:02.207Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:50:02.207Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-26T09:50:02.207Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:50:02.268Z - Time taken for 'hash changed files from watcher' 0.4125000238418579ms
+[NX Daemon Server] - 2023-12-26T09:50:16.544Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-26T09:50:16.545Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:16.979Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:18.311Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-26T09:50:18.311Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:18.694Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:18.992Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-12-26T09:50:18.994Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:21.120Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:21.162Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:21.223Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:50:22.949Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:50:22.949Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-12-26T09:50:22.949Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:50:23.026Z - Time taken for 'hash changed files from watcher' 0.8773999214172363ms
+[NX Daemon Server] - 2023-12-26T09:51:23.768Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:51:23.768Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:51:24.254Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:51:25.203Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:51:25.205Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:51:25.366Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:51:25.368Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2023-12-26T09:51:25.726Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:51:29.250Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:51:29.318Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-12-26T09:51:30.203Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-12-26T09:51:30.203Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2023-12-26T09:51:30.203Z - [REQUEST]: 
+[NX Daemon Server] - 2023-12-26T09:51:30.385Z - Time taken for 'hash changed files from watcher' 0.510200023651123ms
+[NX Daemon Server] - 2023-12-26T12:51:25.429Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-26T15:51:25.451Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-26T18:51:25.467Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-26T21:51:25.479Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-27T00:51:25.489Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-27T05:31:22.480Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-27T17:44:53.998Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-27T20:44:54.018Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-28T00:46:23.888Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-28T18:08:34.637Z - There are 3 open connections. Reset inactivity timer.
+[NX Daemon Server] - 2023-12-28T18:11:56.605Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-12-28T18:11:56.760Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T10:01:18.140Z - Started listening on: \\.\pipe\nx\C:\Users\zeusk\AppData\Local\Temp\43ed772965df105b22e3\d.sock
+[NX Daemon Server] - 2024-04-06T10:01:18.288Z - [WATCHER]: Subscribed to changes within: c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide (native)
+[NX Daemon Server] - 2024-04-06T10:01:18.290Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T10:01:18.291Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-06T10:01:18.291Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T10:01:18.295Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-06T10:01:18.348Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T10:01:18.348Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T10:01:18.348Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T10:01:21.651Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-06T10:01:21.662Z - Time taken for 'total for creating and serializing project graph' 3355.8881998062134ms
+[NX Daemon Server] - 2024-04-06T10:01:21.663Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-06T10:01:21.663Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 3357. Response time: 12.
+[NX Daemon Server] - 2024-04-06T10:01:21.670Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-06T10:01:21.672Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T10:01:21.672Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-06T10:01:21.672Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T10:01:21.675Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-06T10:01:21.676Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-06T10:01:21.676Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-06T12:33:15.596Z - Started listening on: \\.\pipe\nx\C:\Users\zeusk\AppData\Local\Temp\43ed772965df105b22e3\d.sock
+[NX Daemon Server] - 2024-04-06T12:33:15.628Z - [WATCHER]: Subscribed to changes within: c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide (native)
+[NX Daemon Server] - 2024-04-06T12:33:15.681Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T12:33:15.684Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-06T12:33:15.685Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T12:33:15.689Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-06T12:33:16.115Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T12:33:16.115Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T12:33:16.115Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T12:33:18.191Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-06T12:33:18.206Z - Time taken for 'total for creating and serializing project graph' 2500.884500026703ms
+[NX Daemon Server] - 2024-04-06T12:33:18.574Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-06T12:33:18.575Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2501. Response time: 385.
+[NX Daemon Server] - 2024-04-06T12:33:18.579Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-06T12:33:18.580Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-04-06T12:33:18.584Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-04-06T12:33:18.586Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T12:33:18.610Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-06T12:33:18.611Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-06T12:33:18.611Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-04-06T13:17:20.477Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:17:20.700Z - [WATCHER]: src/app/modules/Product.ts was created or restored
+[NX Daemon Server] - 2024-04-06T13:17:20.851Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:17:20.851Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:17:20.851Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:17:21.044Z - Time taken for 'hash changed files from watcher' 5.996399879455566ms
+[NX Daemon Server] - 2024-04-06T13:17:28.058Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:17:28.060Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:17:28.276Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:17:28.276Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:17:28.276Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:17:28.373Z - Time taken for 'hash changed files from watcher' 0.28439998626708984ms
+[NX Daemon Server] - 2024-04-06T13:17:35.489Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:17:35.501Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:17:35.894Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:17:35.894Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:17:35.894Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:17:35.974Z - Time taken for 'hash changed files from watcher' 0.42890000343322754ms
+[NX Daemon Server] - 2024-04-06T13:17:49.562Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:17:49.564Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:17:50.374Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:17:50.375Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:17:50.375Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:17:50.463Z - Time taken for 'hash changed files from watcher' 0.4788999557495117ms
+[NX Daemon Server] - 2024-04-06T13:17:52.793Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:17:52.795Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:17:54.406Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:17:54.406Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:17:54.406Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:17:54.479Z - Time taken for 'hash changed files from watcher' 0.3666999340057373ms
+[NX Daemon Server] - 2024-04-06T13:17:54.863Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:17:54.863Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:17:58.076Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:17:58.076Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:17:58.076Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:17:58.145Z - Time taken for 'hash changed files from watcher' 0.5318000316619873ms
+[NX Daemon Server] - 2024-04-06T13:18:10.356Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:18:10.358Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:18:16.769Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:18:16.769Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:18:16.769Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:18:16.872Z - Time taken for 'hash changed files from watcher' 0.5083000659942627ms
+[NX Daemon Server] - 2024-04-06T13:19:24.270Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:19:24.271Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:19:30.672Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:19:30.672Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:19:30.672Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:19:30.751Z - Time taken for 'hash changed files from watcher' 0.8037998676300049ms
+[NX Daemon Server] - 2024-04-06T13:19:33.414Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:19:33.416Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:19:35.548Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:19:35.550Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:19:37.923Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:19:37.957Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:19:39.822Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:19:39.823Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:19:39.823Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:19:39.888Z - Time taken for 'hash changed files from watcher' 0.4313998222351074ms
+[NX Daemon Server] - 2024-04-06T13:19:46.625Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:19:46.628Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:19:53.038Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:19:53.038Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:19:53.038Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:19:53.106Z - Time taken for 'hash changed files from watcher' 0.5938999652862549ms
+[NX Daemon Server] - 2024-04-06T13:19:55.144Z - [WATCHER]: src/app/modules/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:19:55.145Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:20:01.557Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:20:01.558Z - [REQUEST]: src/app/modules/Product.ts
+[NX Daemon Server] - 2024-04-06T13:20:01.558Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:20:01.643Z - Time taken for 'hash changed files from watcher' 0.4909999370574951ms
+[NX Daemon Server] - 2024-04-06T13:20:23.884Z - [WATCHER]: src/app/modules was deleted
+[NX Daemon Server] - 2024-04-06T13:20:23.884Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:20:30.291Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:20:30.291Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:20:30.291Z - [REQUEST]: src/app/modules
+[NX Daemon Server] - 2024-04-06T13:20:30.391Z - Time taken for 'hash changed files from watcher' 0.44860005378723145ms
+[NX Daemon Server] - 2024-04-06T13:21:42.426Z - [WATCHER]: src/app/models/Pagenation.ts was created or restored
+[NX Daemon Server] - 2024-04-06T13:21:42.427Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:21:42.556Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:21:42.556Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:21:42.556Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:21:42.732Z - Time taken for 'hash changed files from watcher' 0.701200008392334ms
+[NX Daemon Server] - 2024-04-06T13:21:46.422Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:21:46.427Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:21:46.641Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:21:46.641Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:21:46.641Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:21:46.709Z - Time taken for 'hash changed files from watcher' 0.35049986839294434ms
+[NX Daemon Server] - 2024-04-06T13:21:48.612Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:21:48.626Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:21:49.053Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:21:49.054Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:21:49.054Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:21:49.190Z - Time taken for 'hash changed files from watcher' 0.48289990425109863ms
+[NX Daemon Server] - 2024-04-06T13:21:49.708Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:21:49.710Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:21:50.526Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:21:50.526Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:21:50.526Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:21:50.599Z - Time taken for 'hash changed files from watcher' 0.33730006217956543ms
+[NX Daemon Server] - 2024-04-06T13:21:53.443Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:21:53.456Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:21:54.867Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:21:54.868Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:21:55.054Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:21:55.054Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:21:55.054Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:21:55.123Z - Time taken for 'hash changed files from watcher' 0.588900089263916ms
+[NX Daemon Server] - 2024-04-06T13:21:58.680Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:21:58.697Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:01.900Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:22:01.900Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:22:01.901Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:22:01.971Z - Time taken for 'hash changed files from watcher' 0.3945000171661377ms
+[NX Daemon Server] - 2024-04-06T13:22:02.228Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:02.229Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:04.022Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:04.028Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:07.861Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:07.863Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:08.645Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:22:08.645Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:22:08.645Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:22:08.717Z - Time taken for 'hash changed files from watcher' 0.38030004501342773ms
+[NX Daemon Server] - 2024-04-06T13:22:09.830Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:09.830Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:12.504Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:12.505Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:16.242Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:22:16.242Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:22:16.243Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:22:16.380Z - Time taken for 'hash changed files from watcher' 0.5018999576568604ms
+[NX Daemon Server] - 2024-04-06T13:22:19.144Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:19.146Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:25.558Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:22:25.559Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:22:25.559Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:22:25.628Z - Time taken for 'hash changed files from watcher' 0.42350006103515625ms
+[NX Daemon Server] - 2024-04-06T13:22:32.143Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:32.161Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:34.734Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:34.735Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:38.673Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:22:38.674Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:22:38.674Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:22:38.782Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:38.782Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:38.782Z - Time taken for 'hash changed files from watcher' 83.47679996490479ms
+[NX Daemon Server] - 2024-04-06T13:22:42.176Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:42.177Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:45.183Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:22:45.183Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:22:45.183Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:22:45.272Z - Time taken for 'hash changed files from watcher' 0.8895001411437988ms
+[NX Daemon Server] - 2024-04-06T13:22:49.907Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:49.907Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:54.287Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:22:54.288Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:22:56.338Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:22:56.338Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:22:56.339Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:22:56.449Z - Time taken for 'hash changed files from watcher' 0.26690006256103516ms
+[NX Daemon Server] - 2024-04-06T13:23:16.289Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:23:16.291Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:23:22.698Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:23:22.698Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:23:22.698Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:23:22.760Z - Time taken for 'hash changed files from watcher' 0.5835001468658447ms
+[NX Daemon Server] - 2024-04-06T13:23:29.085Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:23:29.085Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:23:35.493Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:23:35.493Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:23:35.493Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:23:35.569Z - Time taken for 'hash changed files from watcher' 1.6640000343322754ms
+[NX Daemon Server] - 2024-04-06T13:23:36.026Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:23:36.044Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:23:38.452Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:23:38.453Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:23:40.903Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:23:40.906Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:23:42.493Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:23:42.493Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:23:42.493Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:23:42.609Z - Time taken for 'hash changed files from watcher' 0.4326000213623047ms
+[NX Daemon Server] - 2024-04-06T13:23:43.411Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:23:43.412Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:23:44.909Z - [WATCHER]: src/app/models/Pagenation.ts was modified
+[NX Daemon Server] - 2024-04-06T13:23:44.909Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:23:49.824Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:23:49.824Z - [REQUEST]: src/app/models/Pagenation.ts
+[NX Daemon Server] - 2024-04-06T13:23:49.825Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:23:49.959Z - Time taken for 'hash changed files from watcher' 2.485100030899048ms
+[NX Daemon Server] - 2024-04-06T13:23:59.016Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:23:59.019Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:02.600Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:02.601Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:05.456Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:24:05.456Z - [REQUEST]: src/app/models/Product.ts
+[NX Daemon Server] - 2024-04-06T13:24:05.456Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:24:05.572Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:05.574Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:05.575Z - Time taken for 'hash changed files from watcher' 18.17960000038147ms
+[NX Daemon Server] - 2024-04-06T13:24:09.653Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:09.656Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:11.975Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:24:11.975Z - [REQUEST]: src/app/models/Product.ts
+[NX Daemon Server] - 2024-04-06T13:24:11.975Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:24:12.048Z - Time taken for 'hash changed files from watcher' 0.4709000587463379ms
+[NX Daemon Server] - 2024-04-06T13:24:14.161Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:14.163Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:16.756Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:16.756Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:19.678Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:19.679Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:20.572Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:24:20.572Z - [REQUEST]: src/app/models/Product.ts
+[NX Daemon Server] - 2024-04-06T13:24:20.572Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:24:20.636Z - Time taken for 'hash changed files from watcher' 0.3606998920440674ms
+[NX Daemon Server] - 2024-04-06T13:24:21.112Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:21.112Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:22.695Z - [WATCHER]: src/app/models/Product.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:22.695Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:27.525Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:24:27.525Z - [REQUEST]: src/app/models/Product.ts
+[NX Daemon Server] - 2024-04-06T13:24:27.525Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:24:27.591Z - Time taken for 'hash changed files from watcher' 0.7185001373291016ms
+[NX Daemon Server] - 2024-04-06T13:24:47.240Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:24:47.241Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:24:53.644Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:24:53.646Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:24:53.646Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:24:53.726Z - Time taken for 'hash changed files from watcher' 1.1117000579833984ms
+[NX Daemon Server] - 2024-04-06T13:25:48.580Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:25:48.581Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:25:50.824Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:25:50.827Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:25:54.983Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:25:54.983Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:25:54.983Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:25:55.076Z - Time taken for 'hash changed files from watcher' 0.918100118637085ms
+[NX Daemon Server] - 2024-04-06T13:25:58.078Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:25:58.078Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:26:04.490Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:26:04.490Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:26:04.490Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:26:04.553Z - Time taken for 'hash changed files from watcher' 0.5186998844146729ms
+[NX Daemon Server] - 2024-04-06T13:27:24.468Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:27:24.485Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:27:27.799Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:27:27.800Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:27:30.889Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:27:30.890Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:27:30.890Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:27:31.016Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:27:31.016Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:27:31.017Z - Time taken for 'hash changed files from watcher' 0.785099983215332ms
+[NX Daemon Server] - 2024-04-06T13:27:35.287Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:27:35.304Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:27:37.432Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:27:37.432Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:27:37.432Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:27:37.528Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:27:37.528Z - Time taken for 'hash changed files from watcher' 0.8611998558044434ms
+[NX Daemon Server] - 2024-04-06T13:27:37.540Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:27:43.943Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:27:43.944Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:27:43.944Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:27:44.023Z - Time taken for 'hash changed files from watcher' 0.34260010719299316ms
+[NX Daemon Server] - 2024-04-06T13:27:54.451Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:27:54.454Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:28:00.867Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:28:00.867Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:28:00.867Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:28:00.952Z - Time taken for 'hash changed files from watcher' 0.4539000988006592ms
+[NX Daemon Server] - 2024-04-06T13:28:06.662Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:28:06.663Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:28:10.566Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:28:10.569Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:28:13.073Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:28:13.073Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:28:13.074Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:28:13.158Z - Time taken for 'hash changed files from watcher' 0.7402000427246094ms
+[NX Daemon Server] - 2024-04-06T13:28:18.911Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:28:18.929Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:28:22.259Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:28:22.261Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:28:25.335Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:28:25.335Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:28:25.335Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:28:25.419Z - Time taken for 'hash changed files from watcher' 0.33520007133483887ms
+[NX Daemon Server] - 2024-04-06T13:28:26.861Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:28:26.863Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:28:33.264Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:28:33.265Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:28:33.265Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:28:33.342Z - Time taken for 'hash changed files from watcher' 0.34290003776550293ms
+[NX Daemon Server] - 2024-04-06T13:28:45.491Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:28:45.493Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:28:48.502Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:28:48.505Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:28:51.898Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:28:51.900Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:28:51.905Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:28:52.032Z - Time taken for 'hash changed files from watcher' 1.0775001049041748ms
+[NX Daemon Server] - 2024-04-06T13:29:30.363Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:29:30.364Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:29:34.156Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:29:34.159Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:29:35.521Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:29:35.521Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:29:36.591Z - [WATCHER]: src/app/app.component.ts was modified
+[NX Daemon Server] - 2024-04-06T13:29:36.592Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:29:36.794Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:29:36.795Z - [REQUEST]: src/app/app.component.ts
+[NX Daemon Server] - 2024-04-06T13:29:36.795Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:29:36.930Z - Time taken for 'hash changed files from watcher' 1.312999963760376ms
+[NX Daemon Server] - 2024-04-06T13:29:45.031Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:29:45.033Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-04-06T13:29:47.401Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2024-04-06T13:29:47.401Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T13:29:51.476Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T13:29:51.476Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2024-04-06T13:29:51.476Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T13:29:51.725Z - Time taken for 'hash changed files from watcher' 0.7765998840332031ms
+[NX Daemon Server] - 2024-04-06T14:59:18.439Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T14:59:18.440Z - [WATCHER]: Stopping the watcher for c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide (sources)
+[NX Daemon Server] - 2024-04-06T14:59:18.441Z - [WATCHER]: Stopping the watcher for c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide (outputs)
+[NX Daemon Server] - 2024-04-06T14:59:18.441Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-04-06T15:09:29.314Z - Started listening on: \\.\pipe\nx\C:\Users\zeusk\AppData\Local\Temp\43ed772965df105b22e3\d.sock
+[NX Daemon Server] - 2024-04-06T15:09:29.323Z - [WATCHER]: Subscribed to changes within: c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide (native)
+[NX Daemon Server] - 2024-04-06T15:09:29.326Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T15:09:29.328Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-06T15:09:29.329Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T15:09:29.336Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-04-06T15:09:29.455Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:09:29.455Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:09:29.456Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:09:36.491Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-04-06T15:09:36.495Z - Time taken for 'total for creating and serializing project graph' 7154.5456001758575ms
+[NX Daemon Server] - 2024-04-06T15:09:36.495Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-04-06T15:09:36.495Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 7155. Response time: 4.
+[NX Daemon Server] - 2024-04-06T15:09:36.504Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-06T15:09:36.506Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T15:09:36.506Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-04-06T15:09:36.506Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-04-06T15:09:36.510Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-04-06T15:09:36.510Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-04-06T15:09:36.510Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-04-06T15:24:12.513Z - [WATCHER]: angular.json was created or restored
+[NX Daemon Server] - 2024-04-06T15:24:12.514Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:24:12.632Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:24:12.632Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:24:12.632Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ValueExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 1:1
+> 1 | 
+    | ^
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:24:12.685Z - Time taken for 'hash changed files from watcher' 0.7511000633239746ms
+[NX Daemon Server] - 2024-04-06T15:24:21.050Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:24:21.051Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:24:21.254Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:24:21.255Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:24:21.255Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: InvalidSymbol in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 1:1
+> 1 | v
+    | ^
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:24:21.276Z - Time taken for 'hash changed files from watcher' 0.5348999500274658ms
+[NX Daemon Server] - 2024-04-06T15:24:23.491Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:24:23.491Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:24:23.901Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:24:23.901Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:24:23.901Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ValueExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 1:1
+> 1 | 
+    | ^
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:24:23.924Z - Time taken for 'hash changed files from watcher' 0.40869998931884766ms
+[NX Daemon Server] - 2024-04-06T15:24:26.113Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:24:26.132Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:24:26.955Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:24:26.956Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:24:26.956Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:24:27.058Z - Time taken for 'hash changed files from watcher' 18.151999950408936ms
+[NX Daemon Server] - 2024-04-06T15:24:45.157Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:24:45.158Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:24:46.779Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:24:46.779Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:24:46.779Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:24:46.860Z - Time taken for 'hash changed files from watcher' 12.942800045013428ms
+[NX Daemon Server] - 2024-04-06T15:24:48.546Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:24:48.546Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:24:51.786Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:24:51.787Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:24:51.788Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:24:51.909Z - Time taken for 'hash changed files from watcher' 28.97000002861023ms
+[NX Daemon Server] - 2024-04-06T15:24:52.880Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:24:52.882Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:24:59.302Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:24:59.302Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:24:59.303Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:24:59.388Z - Time taken for 'hash changed files from watcher' 15.330399990081787ms
+[NX Daemon Server] - 2024-04-06T15:29:52.875Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:29:52.886Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:29:59.337Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:29:59.337Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:29:59.337Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:29:59.440Z - Time taken for 'hash changed files from watcher' 36.29990005493164ms
+[NX Daemon Server] - 2024-04-06T15:30:00.540Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:00.540Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:02.533Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:02.536Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:04.214Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:04.215Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:06.963Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:30:06.963Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:30:06.963Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ColonExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 10:9
+   8 |         "schematics": {
+   9 |             ""
+> 10 |         },
+     |         ^
+  11 |         "root": "",
+  12 |         "sourceRoot": "src",
+  13 |         "prefix": "app",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:30:06.982Z - Time taken for 'hash changed files from watcher' 10.41919994354248ms
+[NX Daemon Server] - 2024-04-06T15:30:09.410Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:09.412Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:10.521Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:10.523Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:15.828Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:30:15.828Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:30:15.828Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:30:15.904Z - Time taken for 'hash changed files from watcher' 13.133699893951416ms
+[NX Daemon Server] - 2024-04-06T15:30:17.418Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:17.432Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:20.095Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:20.098Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:23.834Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:30:23.834Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:30:23.834Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ValueExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 11:13
+   9 |             "@schematics/angular:component": {
+  10 |                 "style": 
+> 11 |             }
+     |             ^
+  12 |         },
+  13 |         "root": "",
+  14 |         "sourceRoot": "src",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:30:23.852Z - Time taken for 'hash changed files from watcher' 12.249399900436401ms
+[NX Daemon Server] - 2024-04-06T15:30:24.238Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:24.253Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:30.658Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:30:30.659Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:30:30.659Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:30:30.760Z - Time taken for 'hash changed files from watcher' 10.97790002822876ms
+[NX Daemon Server] - 2024-04-06T15:30:55.039Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:30:55.039Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:57.953Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:30:57.956Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:31:01.464Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:31:01.464Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:31:01.464Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:31:01.605Z - Time taken for 'hash changed files from watcher' 21.651299953460693ms
+[NX Daemon Server] - 2024-04-06T15:31:53.307Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:31:53.307Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:31:55.506Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:31:55.507Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:31:59.721Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:31:59.721Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:31:59.721Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:31:59.871Z - Time taken for 'hash changed files from watcher' 10.66569995880127ms
+[NX Daemon Server] - 2024-04-06T15:32:00.439Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:32:00.442Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:32:02.313Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:32:02.316Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:32:03.598Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:32:03.600Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:32:06.866Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:32:06.866Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:32:06.866Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:32:06.972Z - Time taken for 'hash changed files from watcher' 17.927900075912476ms
+[NX Daemon Server] - 2024-04-06T15:32:08.401Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:32:08.404Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:32:14.834Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:32:14.834Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:32:14.834Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:32:14.916Z - Time taken for 'hash changed files from watcher' 15.009000062942505ms
+[NX Daemon Server] - 2024-04-06T15:32:39.711Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:32:39.713Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:32:46.130Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:32:46.130Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:32:46.130Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:32:46.229Z - Time taken for 'hash changed files from watcher' 12.90220022201538ms
+[NX Daemon Server] - 2024-04-06T15:34:31.957Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:34:31.960Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:34:32.989Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:34:32.989Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:34:34.530Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:34:34.532Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:34:37.856Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:34:37.857Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:34:38.387Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:34:38.387Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:34:38.387Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:34:38.473Z - Time taken for 'hash changed files from watcher' 11.14330005645752ms
+[NX Daemon Server] - 2024-04-06T15:34:52.187Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:34:52.190Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:34:54.722Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:34:54.724Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:34:58.620Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:34:58.620Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:34:58.620Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:34:58.723Z - Time taken for 'hash changed files from watcher' 9.029000043869019ms
+[NX Daemon Server] - 2024-04-06T15:35:05.329Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:05.346Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:06.617Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:06.618Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:10.831Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:10.832Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:11.761Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:35:11.761Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:35:11.761Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:35:11.838Z - Time taken for 'hash changed files from watcher' 13.690400123596191ms
+[NX Daemon Server] - 2024-04-06T15:35:24.633Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:24.634Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:27.963Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:27.964Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:31.086Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:35:31.086Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:35:31.086Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:35:31.210Z - Time taken for 'hash changed files from watcher' 47.62649989128113ms
+[NX Daemon Server] - 2024-04-06T15:35:34.262Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:34.265Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:34.302Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:40.685Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:35:40.685Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:35:40.685Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:35:40.799Z - Time taken for 'hash changed files from watcher' 12.637699842453003ms
+[NX Daemon Server] - 2024-04-06T15:35:41.801Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:41.802Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:46.304Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:46.307Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:48.227Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:35:48.227Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:35:48.227Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:35:48.359Z - Time taken for 'hash changed files from watcher' 23.94260001182556ms
+[NX Daemon Server] - 2024-04-06T15:35:52.120Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:52.134Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:54.035Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:54.037Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:55.095Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:35:55.096Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:35:58.537Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:35:58.537Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:35:58.537Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ColonExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 43:19
+  41 |                     "maximumWarning": "500kb",
+  42 |                     "mi"
+> 43 |                   }
+     |                   ^
+  44 |                 ],
+  45 |                 "optimization": true,
+  46 |                 "outputHashing": "all",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:35:58.561Z - Time taken for 'hash changed files from watcher' 10.827300071716309ms
+[NX Daemon Server] - 2024-04-06T15:36:01.450Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:01.451Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:07.867Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:36:07.867Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:36:07.867Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ColonExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 43:19
+  41 |                     "maximumWarning": "500kb",
+  42 |                     "maximumError"
+> 43 |                   }
+     |                   ^
+  44 |                 ],
+  45 |                 "optimization": true,
+  46 |                 "outputHashing": "all",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:36:07.885Z - Time taken for 'hash changed files from watcher' 10.491300106048584ms
+[NX Daemon Server] - 2024-04-06T15:36:09.886Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:09.886Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:11.136Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:11.137Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:13.374Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:13.391Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:14.430Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:14.431Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:16.327Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:36:16.328Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:36:16.329Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:36:16.477Z - Time taken for 'hash changed files from watcher' 28.056099891662598ms
+[NX Daemon Server] - 2024-04-06T15:36:32.650Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:32.650Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:36.200Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:36.202Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:38.624Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:38.626Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:39.081Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:36:39.081Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:36:39.082Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:36:39.235Z - Time taken for 'hash changed files from watcher' 22.632200002670288ms
+[NX Daemon Server] - 2024-04-06T15:36:41.908Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:41.908Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:43.218Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:43.218Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:46.925Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:46.926Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:48.072Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:48.072Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:48.388Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:36:48.388Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:36:48.389Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ColonExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 46:19
+  44 |                   {
+  45 |                     ""
+> 46 |                   }
+     |                   ^
+  47 |                 ],
+  48 |                 "optimization": true,
+  49 |                 "outputHashing": "all",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:36:48.411Z - Time taken for 'hash changed files from watcher' 34.7393000125885ms
+[NX Daemon Server] - 2024-04-06T15:36:49.789Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:49.793Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:51.728Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:51.730Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:53.054Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:53.055Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:55.607Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:55.621Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:56.242Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:36:56.242Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:36:56.242Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ValueExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 46:19
+  44 |                   {
+  45 |                     "type":
+> 46 |                   }
+     |                   ^
+  47 |                 ],
+  48 |                 "optimization": true,
+  49 |                 "outputHashing": "all",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:36:56.261Z - Time taken for 'hash changed files from watcher' 37.74499988555908ms
+[NX Daemon Server] - 2024-04-06T15:36:57.803Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:36:57.805Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:59.597Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:36:59.598Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:02.944Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:02.946Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:04.222Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:37:04.222Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:37:04.222Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:37:04.457Z - Time taken for 'hash changed files from watcher' 12.59689998626709ms
+[NX Daemon Server] - 2024-04-06T15:37:13.856Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:13.859Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:16.826Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:16.827Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:20.296Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:37:20.303Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:37:20.303Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ColonExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 47:19
+  45 |                     "type": "anyComponentStyle",
+  46 |                     "ma"
+> 47 |                   }
+     |                   ^
+  48 |                 ],
+  49 |                 "optimization": true,
+  50 |                 "outputHashing": "all",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:37:20.338Z - Time taken for 'hash changed files from watcher' 33.90739989280701ms
+[NX Daemon Server] - 2024-04-06T15:37:20.564Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:20.565Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:24.733Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:24.734Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:26.976Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:37:26.976Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:37:26.976Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: InvalidSymbol in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 46:39
+  44 |                   {
+  45 |                     "type": "anyComponentStyle",
+> 46 |                     "maximumWarning": ''
+     |                                       ^^
+  47 |                   }
+  48 |                 ],
+  49 |                 "optimization": true,
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:37:26.996Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:26.997Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:26.997Z - Time taken for 'hash changed files from watcher' 1.6691999435424805ms
+[NX Daemon Server] - 2024-04-06T15:37:30.297Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:30.299Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:31.813Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:31.814Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:33.424Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:37:33.424Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:37:33.424Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:37:33.495Z - Time taken for 'hash changed files from watcher' 10.420099973678589ms
+[NX Daemon Server] - 2024-04-06T15:37:38.075Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:38.078Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:40.834Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:40.836Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:42.174Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:42.174Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:43.246Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:43.248Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:44.499Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:37:44.500Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:37:44.500Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ColonExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 48:19
+  46 |                     "maximumWarning": "2kb",
+  47 |                     ""
+> 48 |                   }
+     |                   ^
+  49 |                 ],
+  50 |                 "optimization": true,
+  51 |                 "outputHashing": "all",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:37:44.523Z - Time taken for 'hash changed files from watcher' 15.49559998512268ms
+[NX Daemon Server] - 2024-04-06T15:37:45.739Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:45.739Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:47.737Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:47.739Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:51.182Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:51.184Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:52.158Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:37:52.158Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:37:52.158Z - [REQUEST]: 
+Unable to create nodes for angular.json using plugin nx-angular-json-plugin. 
+
+	 Inner Error: Error: ValueExpected in c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\angular.json at 48:19
+  46 |                     "maximumWarning": "2kb",
+  47 |                     "maximumError": 
+> 48 |                   }
+     |                   ^
+  49 |                 ],
+  50 |                 "optimization": true,
+  51 |                 "outputHashing": "all",
+
+    at parseJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\json.js:25:15)
+    at readJsonFile (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\utils\fileutils.js:22:37)
+    at readAngularJson (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:49:53)
+    at exports.NxAngularJsonPlugin.createNodes (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\adapter\angular-json.js:13:23)
+    at buildProjectsConfigurationsFromProjectPathsAndPlugins (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:125:29)
+    at createProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:156)
+    at _retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:61:12)
+    at retrieveProjectConfigurations (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:46:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async processFilesAndCreateAndSerializeProjectGraph (c:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\clientSide\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+[NX Daemon Server] - 2024-04-06T15:37:52.177Z - Time taken for 'hash changed files from watcher' 10.461899995803833ms
+[NX Daemon Server] - 2024-04-06T15:37:52.325Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:52.327Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:54.416Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:37:54.417Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:37:58.751Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:37:58.751Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:37:58.752Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:37:58.843Z - Time taken for 'hash changed files from watcher' 15.9235999584198ms
+[NX Daemon Server] - 2024-04-06T15:38:27.434Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:38:27.435Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:38:32.317Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:38:32.318Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:38:33.838Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:38:33.838Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:38:33.838Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:38:33.946Z - Time taken for 'hash changed files from watcher' 2.0877997875213623ms
+[NX Daemon Server] - 2024-04-06T15:39:01.851Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:39:01.853Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:39:08.271Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:39:08.271Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:39:08.271Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:39:08.346Z - Time taken for 'hash changed files from watcher' 11.506500005722046ms
+[NX Daemon Server] - 2024-04-06T15:39:15.903Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:39:15.903Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:39:18.254Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:39:18.258Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:39:22.333Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:39:22.333Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:39:22.333Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:39:22.465Z - Time taken for 'hash changed files from watcher' 21.842299938201904ms
+[NX Daemon Server] - 2024-04-06T15:39:25.732Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:39:25.735Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:39:28.142Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:39:28.146Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:39:32.278Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:39:32.278Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:39:32.278Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:39:32.365Z - Time taken for 'hash changed files from watcher' 130.4581000804901ms
+[NX Daemon Server] - 2024-04-06T15:39:54.584Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:39:54.584Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:40:01.008Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:40:01.008Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:40:01.008Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:40:01.031Z - Time taken for 'hash changed files from watcher' 12.957900047302246ms
+[NX Daemon Server] - 2024-04-06T15:40:32.698Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:40:32.702Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:40:35.630Z - [WATCHER]: angular.json was modified
+[NX Daemon Server] - 2024-04-06T15:40:35.630Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:40:39.117Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:40:39.118Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-04-06T15:40:39.118Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:40:39.140Z - Time taken for 'hash changed files from watcher' 2.3289999961853027ms
+[NX Daemon Server] - 2024-04-06T15:41:07.551Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:07.644Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:07.997Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:08.439Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:08.510Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:08.591Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:08.683Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:08.747Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:08.822Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:08.874Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:08.983Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:10.371Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:10.473Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:10.537Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:10.603Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:10.789Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:10.932Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:10.995Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:11.137Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:11.200Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:11.280Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:11.676Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:11.959Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:12.372Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:12.880Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:12.971Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:15.533Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:15.883Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:15.961Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:16.930Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:17.636Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:17.814Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:19.120Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:19.806Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:19.979Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:20.093Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:20.825Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:20.886Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:20.953Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.048Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.127Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.190Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.273Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.327Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.406Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.475Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.552Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.615Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.696Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.759Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.820Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.873Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:21.964Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.048Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.125Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.170Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.242Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.301Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.352Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.424Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.494Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.565Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:22.945Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:23.009Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:23.078Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:23.134Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:23.193Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:23.280Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:23.332Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.021Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.103Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.179Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.241Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.303Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.381Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.461Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.526Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.592Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.666Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.756Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.827Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.880Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:24.940Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.006Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.075Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.144Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.200Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.271Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.354Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.427Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.469Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.526Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.682Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.760Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:25.938Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.030Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.085Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.158Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.411Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.460Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.539Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.604Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.665Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.744Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.793Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.848Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.919Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:26.969Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:27.040Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:27.136Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:27.202Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:27.299Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:41:27.361Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:42:01.023Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:42:01.051Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:42:01.146Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:42:01.198Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:54:35.167Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-04-06T15:54:35.168Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:54:41.601Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:54:41.601Z - [REQUEST]: angular.json,src/styles.scss,package.json
+[NX Daemon Server] - 2024-04-06T15:54:41.601Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:54:41.639Z - Time taken for 'hash changed files from watcher' 2.359600067138672ms
+[NX Daemon Server] - 2024-04-06T15:55:03.502Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:55:03.561Z - [WATCHER]: package-lock.json was modified
+[NX Daemon Server] - 2024-04-06T15:55:05.496Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:55:05.550Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:55:09.965Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:55:09.965Z - [REQUEST]: angular.json,src/styles.scss,package.json,package-lock.json
+[NX Daemon Server] - 2024-04-06T15:55:09.965Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:55:09.987Z - Time taken for 'hash changed files from watcher' 1.7055001258850098ms
+[NX Daemon Server] - 2024-04-06T15:55:17.061Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:55:17.064Z - [WATCHER]: src/styles.scss was modified
+[NX Daemon Server] - 2024-04-06T15:55:23.581Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:55:23.581Z - [REQUEST]: angular.json,src/styles.scss,package.json,package-lock.json
+[NX Daemon Server] - 2024-04-06T15:55:23.582Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:55:23.614Z - Time taken for 'hash changed files from watcher' 75.42540001869202ms
+[NX Daemon Server] - 2024-04-06T15:59:15.815Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:59:15.817Z - [WATCHER]: src/app/core/core.module.ts was created or restored
+[NX Daemon Server] - 2024-04-06T15:59:15.947Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:59:15.947Z - [REQUEST]: angular.json,src/styles.scss,package.json,package-lock.json,src/app/core/core.module.ts
+[NX Daemon Server] - 2024-04-06T15:59:15.947Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:59:15.973Z - Time taken for 'hash changed files from watcher' 15.185499906539917ms
+[NX Daemon Server] - 2024-04-06T15:59:43.830Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T15:59:43.834Z - [WATCHER]: src/app/shared/shared.module.ts was created or restored
+[NX Daemon Server] - 2024-04-06T15:59:43.955Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T15:59:43.955Z - [REQUEST]: angular.json,src/styles.scss,package.json,package-lock.json,src/app/core/core.module.ts,src/app/shared/shared.module.ts
+[NX Daemon Server] - 2024-04-06T15:59:43.955Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T15:59:43.982Z - Time taken for 'hash changed files from watcher' 14.693000078201294ms
+[NX Daemon Server] - 2024-04-06T16:00:30.080Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T16:00:30.083Z - [WATCHER]: src/app/shop/shop.module.ts was created or restored
+[NX Daemon Server] - 2024-04-06T16:00:30.222Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-04-06T16:00:30.222Z - [REQUEST]: angular.json,src/styles.scss,package.json,package-lock.json,src/app/core/core.module.ts,src/app/shared/shared.module.ts,src/app/shop/shop.module.ts
+[NX Daemon Server] - 2024-04-06T16:00:30.222Z - [REQUEST]: 
+[NX Daemon Server] - 2024-04-06T16:00:30.248Z - Time taken for 'hash changed files from watcher' 33.33560013771057ms
+[NX Daemon Server] - 2024-04-06T16:02:05.171Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-04-06T16:02:05.231Z - [WATCHER]: Processing file changes in outputs

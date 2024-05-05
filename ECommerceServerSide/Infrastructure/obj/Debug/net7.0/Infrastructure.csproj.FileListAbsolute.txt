@@ -1,0 +1,15 @@
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\bin\Debug\net7.0\Core.dll
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\bin\Debug\net7.0\Core.pdb
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\zeusk\Downloads\WebDev Projects\Full Stack development Js Nodejs expressJs React\Angular\AspNetAngOnlineShop\ECommerceServerSide\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
